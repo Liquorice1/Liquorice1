@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Carrie-Ann
-- 👀 I’m interested in Frontend Development  as well as Data Anylictis 
+- 👋 "Hello there! I'm Carrie-Ann, and I'm passionate about Frontend Development and Data Analytics. 😊"
