@@ -1,8 +1,5 @@
 # Hi, I’m Carrie-Ann 👋
-
-🎯 Aspiring Data Analyst with a strong foundation in Excel and business operations  
-📊 Office Manager specialising in reporting, tracking, and operational insights  
-📍 Based in Cape Town  
+Executive Assistant & Office Manager | 8 years experience | Building operational systems in Excel | Cape Town  
 
 ---
 
