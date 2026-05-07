@@ -20,9 +20,4 @@ Executive Assistant & Office Manager | Building operational systems in Excel | C
 
 ---
 
-## 📈 Goal
-Transition into a Data Analyst role by building practical, portfolio-ready projects  
-
----
-
 ⭐ More projects coming soon
