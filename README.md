@@ -1,5 +1,5 @@
 # Hi, I’m Carrie-Ann 👋
-Executive Assistant & Office Manager | 8 years experience | Building operational systems in Excel | Cape Town  
+Executive Assistant & Office Manager | Building operational systems in Excel | Cape Town  
 
 ---
 
