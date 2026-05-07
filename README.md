@@ -13,19 +13,6 @@ Executive Assistant & Office Manager | Building operational systems in Excel | C
 
 ---
 
-## 📊 Featured Project
-
-### Executive Travel Spend Dashboard
-- Built an interactive Excel dashboard to track and analyse travel expenses  
-- Created KPI cards for Total Spend, Average Spend, Top Category, and Pending Spend  
-- Used Pivot Tables to analyse spending by category, city, and payment status  
-- Designed a clean, executive-level dashboard layout  
-
-👉 View Project:  
-https://github.com/Liquorice1/executive-travel-dashboard-excel
-
----
-
 ## 🛠 Skills
 - Excel (Pivot Tables, Dashboards, Data Cleaning)  
 - Data Analysis  
