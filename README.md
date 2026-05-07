@@ -20,4 +20,3 @@ Executive Assistant & Office Manager | Building operational systems in Excel | C
 
 ---
 
-⭐ More projects coming soon
